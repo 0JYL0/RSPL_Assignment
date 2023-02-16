@@ -1,0 +1,39 @@
+<div class="container text-center">
+    <h2>
+        Register New User
+    </h2>
+</div>
+<div class="container">
+    <form action="" [formGroup]="CustomerDetail">
+        <div class="mb-3">
+            <label for="formGroupExampleInput" class="form-label">Name :</label>
+            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name" formControlName="name">
+            <span [hidden]="name?.untouched || name?.valid">Please enter atleast two characters.</span>
+        </div>
+        <div class="mb-3">
+            <label for="formGroupExampleInput2" class="form-label">Phone :</label>
+            <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Phone" formControlName="phone">
+            <span [hidden]="phone?.untouched || phone?.valid">Please enter valid phone number.</span>
+        </div>
+        <div class="mb-3">
+            <label for="formGroupExampleInput" class="form-label">Email :</label>
+            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Email" formControlName="email">
+            <span [hidden]="email?.untouched || email?.valid">Please enter valid email.</span>
+        </div>
+        <div class="mb-3">
+            <label for="formGroupExampleInput2" class="form-label">Password :</label>
+            <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Password" formControlName="password">
+            <span [hidden]="password?.untouched || password?.valid">Please enter atleast 4 and maximum 6. Only numbers are alllowed.</span>
+        </div>
+        <div class="text-center">
+            <button class="btn btn-outline-success" (click)="signUp()" [disabled]="CustomerDetail.invalid">Sign Up</button>
+        </div>
+    </form> 
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert" [hidden]="signUp">
+        New user added successfully.
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+</div>
