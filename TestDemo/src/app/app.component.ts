@@ -23,24 +23,6 @@ export class AppComponent implements OnInit {
       this.CurrentUser = JSON.parse(temp);
       this.LogIn();
     }
-    this.postdata();
-    this.getg()
-  }
-
-  getg(){
-    this.db.getdata().subscribe(x => {
-      console.log('Data :',x)
-    })
-  }
-
-  postdata(){
-    let data = {
-      id:3,
-      name:"Meet",
-      phone:745374596,
-      email:"m@gmail.com"
-    }
-    this.db.postDate(data).subscribe();
   }
 
   LogIn() {
