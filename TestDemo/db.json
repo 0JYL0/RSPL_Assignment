@@ -1,0 +1,1008 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Jayal",
+      "phone": 7265814628,
+      "email": "j@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Savan",
+      "phone": 7265814628,
+      "emaii": "s@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Meet",
+      "phone": 7453745963,
+      "emaii": "m@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 5,
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 6,
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 7,
+      "name": "",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 8,
+      "name": "R",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 9,
+      "name": "R",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 10,
+      "name": "Ra",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 11,
+      "name": "Rac",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 12,
+      "name": "Rac",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 13,
+      "name": "Rach",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 14,
+      "name": "Rach",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 15,
+      "name": "Rachi",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 16,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 17,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 18,
+      "name": "Rachin",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 19,
+      "name": "Rachin",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 20,
+      "name": "Rachin",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 21,
+      "name": "Rachin",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": 22,
+      "name": "Rachin",
+      "phone": "1",
+      "email": ""
+    },
+    {
+      "id": 23,
+      "name": "Rachin",
+      "phone": "12",
+      "email": ""
+    },
+    {
+      "id": 24,
+      "name": "Rachin",
+      "phone": "12",
+      "email": ""
+    },
+    {
+      "id": 25,
+      "name": "Rachin",
+      "phone": "123",
+      "email": ""
+    },
+    {
+      "id": 26,
+      "name": "Rachin",
+      "phone": "123",
+      "email": ""
+    },
+    {
+      "id": 27,
+      "name": "Rachin",
+      "phone": "1234",
+      "email": ""
+    },
+    {
+      "id": 28,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 29,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 30,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 31,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 32,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 33,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 34,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 35,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 36,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 37,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 38,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 39,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 40,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 41,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 42,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 43,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 44,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 45,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 46,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 47,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 48,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 49,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 50,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 51,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 52,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 53,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 54,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 55,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 56,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 57,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 58,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 59,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 60,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 61,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 62,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 63,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 64,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 65,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 66,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 67,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 68,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 69,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 70,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 71,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 72,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 73,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 74,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 75,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 76,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 77,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 78,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 79,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 80,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 81,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 82,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 83,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": 84,
+      "name": "Rachin",
+      "phone": "1234567890",
+      "email": "r@gmail.com"
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "empId": 1,
+      "username": "j@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "empId": 2,
+      "username": "s@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "empId": 3,
+      "username": "m@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 4,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 5,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 6,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 7,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 8,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 9,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 10,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 11,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 12,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 13,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 14,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 15,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 16,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 17,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 18,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 19,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 20,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 21,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 22,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 23,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 24,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 25,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 26,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 27,
+      "empId": 0,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": 28,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 29,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 30,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 31,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 32,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 33,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 34,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 35,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 36,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 37,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 38,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 39,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 40,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 41,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 42,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 43,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 44,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 45,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 46,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 47,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 48,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 49,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 50,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 51,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 52,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 53,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 54,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 55,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 56,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 57,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 58,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 59,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 60,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 61,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 62,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 63,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 64,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 65,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 66,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 67,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 68,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 69,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 70,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 71,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 72,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 73,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 74,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 75,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 76,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 77,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 78,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 79,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 80,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 81,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 82,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 83,
+      "empId": 0,
+      "username": "r@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

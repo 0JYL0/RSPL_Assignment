@@ -11,7 +11,7 @@ const routes: Routes = [
     canActivate: [AuthGuard]
   },
   {
-    path: 'Login',
+    path: '0',
     component: LayoutComponent,
     loadChildren: () => import('./registration/registration.module').then(x => x.RegistrationModule)
   },
