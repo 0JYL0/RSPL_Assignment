@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
-import { bootstrapApplication } from '@angular/platform-browser';
 import { Customer, DBService } from 'src/app/shared/db.service';
+import { Employee, Credential } from '../../shared/db.service';
 
 @Component({
   selector: 'app-signup',
@@ -10,7 +10,7 @@ import { Customer, DBService } from 'src/app/shared/db.service';
 })
 export class SignupComponent {
 
-  flag : boolean = false;
+  flag: boolean = false;
   constructor(private db: DBService) { }
 
   CustomerDetail = new FormGroup({
@@ -23,6 +23,7 @@ export class SignupComponent {
   storedData!: Customer;
 
   signUp() {
+debugger;
     this.storedData = {
       name: this.CustomerDetail.controls['name'].value,
       phone: this.CustomerDetail.controls['phone'].value,
@@ -30,13 +31,31 @@ export class SignupComponent {
       password: this.CustomerDetail.controls['password'].value,
     }
 
+    let employee: Employee = {
+      id:0,
+      name: this.storedData.name,
+      phone: this.storedData.phone,
+      email: this.storedData.email
+    };
+    let credential: Credential={
+      id:0,
+      empId:0,
+      username:this.storedData.email,
+      password:this.storedData.password
+    };
+
+    this.db.postDate(employee).subscribe();
+
+    this.db.postCredentials(credential).subscribe();
+
     if (!this.checkEmail(this.storedData.email)) {
       this.db.Customer.push(this.storedData);
+      return true;
     }
+    return false;
   }
 
   checkEmail(email: any): boolean {
-    debugger;
     this.db.Customer.forEach(x => {
       if (x.email == email) {
         this.flag = true;

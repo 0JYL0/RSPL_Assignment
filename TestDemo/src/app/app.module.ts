@@ -8,6 +8,7 @@ import { DashboardModule } from './dashboard/dashboard.module';
 import { LayoutModule } from './layout/layout.module';
 import { DBService } from './shared/db.service';
 import { CustomPipePipe } from './shared/custom-pipe.pipe';
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import { CustomPipePipe } from './shared/custom-pipe.pipe';
     DashboardModule,
     LayoutModule,
     ReactiveFormsModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [DBService,CustomPipePipe],
   bootstrap: [AppComponent]
